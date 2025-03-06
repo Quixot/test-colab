@@ -4,5 +4,5 @@ def main():
     return True
 
 
-def student():
-    return None
+def student(n):
+    return n
